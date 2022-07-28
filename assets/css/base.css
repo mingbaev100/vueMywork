@@ -1,0 +1,23 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box !important;
+    text-decoration: none !important;
+    list-style: none !important;
+}
+
+body {
+    font-family: "Montserrat", sans-serif !important;
+    
+}
+:root {
+    --primary-background: #ffffff;
+    --secondary-background: #7177f1;
+    --primary-title-color: #7177f1;
+    --secondary-title-color: #ffffff;
+    --primary-text-color: #323232;
+    --secondary-text-color: #7177f1;
+    --secondary-text-color-alt: #ffffff;
+    --primary-font-family: "Montserrat";
+    --secondary-font-family: "Trebuchet";
+  }

@@ -1,0 +1,47 @@
+.capab__heading {
+    text-align: center;
+    color: var(--primary-title-color);
+    margin-bottom: 30px;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 49px;
+    text-transform: capitalize;
+}
+
+.accordion {
+    box-shadow: 0px 0px 5px 3px rgba(113, 119, 241, 0.15);
+    border-radius: 8px 8px 0px 0px;
+}
+
+.acc__head {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+.acc__head p {
+    margin: 0;
+    
+}
+
+.accordion-body {
+    background: var(--secondary-background);
+}
+
+.acc__btn {
+    background: var(--secondary-background) !important;
+    font-size: 18px;
+    font-weight: 900;
+    line-height: 22px;
+    color: var(--secondary-title-color) !important;
+}
+
+.acc__btn_close p{
+    font-size: 18px;
+    font-weight: 900;
+    line-height: 22px;
+    color: var(--secondary-text-color);
+}
+.accordion-body{
+    color: var(--secondary-title-color);
+}
